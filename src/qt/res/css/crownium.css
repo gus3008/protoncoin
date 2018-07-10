@@ -1310,7 +1310,7 @@ QStackedWidget#SendCoinsEntry .QValidatedLineEdit#payTo { /* Pay To Input Field 
 
 QStackedWidget#SendCoinsEntry .QToolButton { /* General Settings for Pay To Icons */
 background-color:transparent;
-padding-left:5px;
+padding-left:105px;
 padding-right:5px;
 border: 0;
 outline: 0;
